@@ -2,6 +2,7 @@
 title: "Vector line integral"
 ---
 Idea: [[Fundamental Theorem of Calculus]]
+
 integrate the [[Vector field]] $\vec{F}$ over the curve $C$, where $\vec{F}(x, y)=\left(f_{1}(x, y), f_{2}(x, y)\right)$
 
 Both $\vec{F}$ and $C$ are 1D object living in 2D space. Their dimensions are the same.
