@@ -1,3 +1,6 @@
+---
+title: Line Integral
+---
 Lecture: #Math53MultivariableCalculus/
 Idea: [[Fundamental Theorem of Calculus]]
 # 1D to 1D

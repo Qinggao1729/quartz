@@ -1,3 +1,6 @@
+---
+title: Jacobian Matrix
+---
 Lecture: #Math53MultivariableCalculus/
 Idea: [[Mapping]]
 

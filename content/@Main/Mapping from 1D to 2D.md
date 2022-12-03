@@ -1,3 +1,6 @@
+---
+title: Mapping from 1D to 2D
+---
 Lecture: #Math53MultivariableCalculus/
 Idea: [[Mapping]]
 

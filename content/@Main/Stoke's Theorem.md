@@ -1,4 +1,6 @@
-Created at 22-11-21 18:12
+---
+title: Stoke's Theorem
+---
 Lecture: #Math53MultivariableCalculus/
 Idea: 
 
