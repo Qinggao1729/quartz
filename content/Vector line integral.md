@@ -16,3 +16,8 @@ $\left|\vec{r}^{\prime}(t)\right|$ is the [[Magic factor]] in [[Mapping#from 1D 
 So $\left|\vec{r}^{\prime}(t)\right|\mathrm{d}t = \mathrm{d}C$
 $$\int_{C} \vec{F} \cdot \mathrm{d} \vec{r}=\int_{C} \vec{F} \cdot \vec{T} \mathrm{d} C$$
 # Calculate in "pieces"
+$\vec{F}=(P(x, y), Q(x, y))$, $\vec{r}^{\prime}(t)=\left(x^{\prime}(t), y^{\prime}(t)\right)$$
+$$\int_{C} \vec{F} \cdot \mathrm{d} \vec{r}=\int_{C} \vec{F} \cdot \vec{r}^{\prime} \mathrm{d} t$$
+
+=\int_{C} P(x, y) x^{\prime}(t) d t+\int_{C} Q(x, y) y^{\prime}(t) d t
+=\int_{C} P(x, y) d x+\int_{C} Q(x, y) d y$
