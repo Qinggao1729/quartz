@@ -19,7 +19,7 @@ $$\int_{C}f(C)\mathrm{d}C=\int_{t_{start}}^{t_{end}}f(C)\mathrm{d}C=\int_{t_{sta
 # Partial Integral
 (It is a random name.)
 Integrate a [[Scalar function]] $f(x,y): R^{2} \to R$ **with respect to $x$** as you move along the curve $C$
-$\int_{C}f(x,y)\mathrm{d}x=\int_{C}f(x(t),y(t))\frac{\mathrm{d}x}{\mathrm{d}y}\mathrm{d}t$
+$$\int_{C}f(x,y)\mathrm{d}x=\int_{C}f(x(t),y(t))\frac{\mathrm{d}x}{\mathrm{d}y}\mathrm{d}t$$
 
 # 1D to 3D
 The object is a [[Mapping#from 1D to 3D]].
