@@ -31,5 +31,5 @@ enableGitInfo = true
         lastmod = ["lastmod", ":git", "date", "publishDate"]
         publishDate = ["publishDate", "date"]
     [markup.goldmark.renderer]
-        hardWraps: true
+        hardWraps = true
         unsafe = true
