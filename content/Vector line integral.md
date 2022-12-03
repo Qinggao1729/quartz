@@ -3,6 +3,7 @@ title: "Vector line integral"
 ---
 Idea: [[Fundamental Theorem of Calculus]]
 integrate the [[Vector field]] $\vec{F}$ over the curve $C$, where $\vec{F}(x, y)=\left(f_{1}(x, y), f_{2}(x, y)\right)$
+
 Both $\vec{F}$ and $C$ are 1D object living in 2D space. Their dimensions are the same.
 
 # Why do this?
@@ -21,4 +22,4 @@ $$\int_{C} \vec{F} \cdot \mathrm{d} \vec{r}=\int_{C} \vec{F} \cdot \vec{T} \math
 Let $\vec{F}=(P(x, y), Q(x, y))$, and we have $\vec{r}^{\prime}(t)=\left(x^{\prime}(t), y^{\prime}(t)\right)$
 $$\int_{C} \vec{F} \cdot \mathrm{d} \vec{r}=\int_{C} \vec{F} \cdot \vec{r}^{\prime} \mathrm{d} t=\int_{C} P(x, y) x^{\prime}(t) \mathrm{d}t+\int_{C} Q(x, y) y^{\prime}(t) \mathrm{d}t$$
 $$=\int_{C} P(x, y) \mathrm{d}x+\int_{C} Q(x, y) \mathrm{d}y$$
-Or intuitively, that's from $\mathrm{d} \vec{r}=(\mathrm{d} x, \mathrm{d} \vec{y})$
+Intuitively, that's from $\mathrm{d} \vec{r}=(\mathrm{d} x, \mathrm{d} \vec{y})$
