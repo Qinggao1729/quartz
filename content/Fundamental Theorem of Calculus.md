@@ -4,7 +4,7 @@ tags:
 - ideas 
 ---
 
-tag: #ideas
+tag: #Ideas
 
 integral of [[Derivative]] over a region = difference of function over a boundary
 
