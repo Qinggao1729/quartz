@@ -17,9 +17,10 @@ search:
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  Math 53 Zettelkasten.
+  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
+  Wikilink support, backlinks, local graph, tags, and link previews.
 page_title:
-  "Math 53 Zettelkasten"
+  "🪴 Quartz 3.3"
 links:
   - link_name: Github
     link: https://github.com/qinggao1729
