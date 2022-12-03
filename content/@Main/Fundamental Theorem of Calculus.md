@@ -1,6 +1,9 @@
 ---
 title: "Fundamental Theorem of Calculus"
+tags:
+- ideas 
 ---
+
 tag: #ideas
 
 integral of [[Derivative]] over a region = difference of function over a boundary
