@@ -1,5 +1,5 @@
 ---
-title: Mapping
+title: "Mapping"
 ---
 tag: #ideas 
-Mapping/transformation from n dimension to m dimension.
+Mapping/transformation from $n$ dimension to $m$ dimension.

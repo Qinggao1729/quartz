@@ -1,5 +1,5 @@
 ---
-title: Mapping from 1D to 1D
+title: "Mapping from 1D to 1D"
 ---
 Lecture: #Math53MultivariableCalculus/
 Idea: [[Mapping]]

@@ -1,5 +1,5 @@
 ---
-title: Stoke's Theorem
+title: "Stoke's Theorem"
 ---
 Lecture: #Math53MultivariableCalculus/
 Idea: 

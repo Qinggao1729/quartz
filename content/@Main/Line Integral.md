@@ -1,5 +1,5 @@
 ---
-title: Line Integral
+title: "Line Integral"
 ---
 Lecture: #Math53MultivariableCalculus/
 Idea: [[Fundamental Theorem of Calculus]]

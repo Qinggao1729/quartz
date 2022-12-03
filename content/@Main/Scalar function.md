@@ -1,5 +1,5 @@
 ---
-title: Scalar function
+title: "Scalar function"
 ---
 Lecture: #Math53MultivariableCalculus/
 Idea: [[Mapping]]

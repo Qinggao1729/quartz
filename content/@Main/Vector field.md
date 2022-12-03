@@ -1,5 +1,5 @@
 ---
-title: Vector field
+title: "Vector field"
 ---
 
 Lecture: #Math53MultivariableCalculus/
