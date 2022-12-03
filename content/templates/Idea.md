@@ -1,1 +1,6 @@
-tag: #ideas
+---
+title: "{{title}}"
+tags:
+- ideas
+- MultivariableCalculus
+---

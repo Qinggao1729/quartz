@@ -1,9 +1,6 @@
 ---
 title: "Line Integral"
-tags:
-- Math53MultivariableCalculus
 ---
-Lecture: #Math53MultivariableCalculus/
 Idea: [[Fundamental Theorem of Calculus]]
 # 1D to 1D
 Integrate a [[Scalar function]] over a 1D object in input space, object living in 1D output space

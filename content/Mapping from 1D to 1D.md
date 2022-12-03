@@ -1,9 +1,6 @@
 ---
 title: "Mapping from 1D to 1D"
-tags:
-- Math53MultivariableCalculus
 ---
-Lecture: #Math53MultivariableCalculus/
 Idea: [[Mapping]]
 
 $x=x(t)$

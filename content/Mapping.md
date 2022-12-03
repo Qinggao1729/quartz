@@ -2,6 +2,6 @@
 title: "Mapping"
 tags:
 - ideas 
+- MultivariableCalculus
 ---
-tag: #Ideas 
 Mapping/transformation from $n$ dimension to $m$ dimension.

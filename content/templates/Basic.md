@@ -1,3 +1,5 @@
-Lecture: #Math53MultivariableCalculus/
+---
+title: "{{title}}"
+---
 Idea: 
 
