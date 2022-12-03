@@ -19,4 +19,4 @@ $$\int_{C} \vec{F} \cdot \mathrm{d} \vec{r}=\int_{C} \vec{F} \cdot \vec{T} \math
 Let $\vec{F}=(P(x, y), Q(x, y))$, and we have $\vec{r}^{\prime}(t)=\left(x^{\prime}(t), y^{\prime}(t)\right)$
 $$\int_{C} \vec{F} \cdot \mathrm{d} \vec{r}=\int_{C} \vec{F} \cdot \vec{r}^{\prime} \mathrm{d} t=\int_{C} P(x, y) x^{\prime}(t) \mathrm{d}t+\int_{C} Q(x, y) y^{\prime}(t) \mathrm{d}t
 =\int_{C} P(x, y) \mathrm{d}x+\int_{C} Q(x, y) \mathrm{d}y$$
-That's from $\mathrm{d} \vec{r}=(\mathrm{d} x, \mathrm{d} \vec{y})$
+Intuitively, that's from $\mathrm{d} \vec{r}=(\mathrm{d} x, \mathrm{d} \vec{y})$
