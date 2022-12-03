@@ -1,7 +1,7 @@
 ---
 title: "Scalar function"
 ---
-Idea: [[Mapping]]
+Idea: [[Map]]
 $R^{n}\to R$
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Vector field"
 ---
-Idea: [[Mapping]] 
+Idea: [[Map]] 
 
 
 $R^{n}\to R^m$

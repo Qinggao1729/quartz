@@ -1,6 +1,6 @@
 ---
 title: "Jacobian Matrix"
 ---
-Idea: [[Mapping]]
+Idea: [[Map]]
 
 Reserved for mapping from n dimension to n dimension
