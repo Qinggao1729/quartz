@@ -1,9 +1,11 @@
 ---
 title: "Conservative"
 ---
-[[Gradient]]
+idea: [[Fundamental Theorem of Calculus]]
 
-A [[Vector field]] $\vec{F}$ is conservative if there exists a [[Scalar function]] $f$ such that  $\nabla f = \vec{F}$
+The existence of [[Derivative]] to be integrated in [[Fundamental Theorem of Calculus]]
+
+A [[Vector field]] $\vec{F}$ is conservative if there exists a [[Scalar function]] $f$ such that  $\nabla f = \vec{F}$ (see [[Gradient]])
 # $\vec{F}$ is conservative $\leftrightarrow \vec{F}$ is [[Path-independent]]
 ## $\vec{F}$ is conservative $\rightarrow \vec{F}$ is [[Path-independent]]
 $\int_{C} \vec{F} \cdot \mathrm{d} \vec{r}=\int_{C} \nabla f \cdot \mathrm{d} \vec{r}=f[\vec{r}(t=b)]-f[\vec{r}(t=b)]$ by [[Fundamental Theorem of Calculus#Vector Line Integral in Higher Dimensions]]
