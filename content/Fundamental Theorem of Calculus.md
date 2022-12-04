@@ -18,8 +18,10 @@ Integral of [[Derivative]] over a 1D region (or line) living in 1D space = diffe
 # [[Vector Line Integral]] in Higher Dimensions
 [[Mapping]]: $f:R^{n} \to R^{n}$
 
-[[Gradient]]
+
 $$\int_{C} \nabla f \cdot \mathrm{d} \vec{r}=f[\vec{r}(t=b)]-f[\vec{r}(t=a)]$$
+(see [[Gradient]])
+
 Integral of [[Derivative]] over a 1D region (or line) living in nD space= difference of function at two 0D boundary (or endpoint)
 ## Proof
 Assign [[Vector field]] $\vec{F}(x,y,z)=\nabla{f}$
