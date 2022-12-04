@@ -7,3 +7,6 @@ A [[Vector field]] $\vec{F}$ is conservative if there exists a [[Scalar function
 \
 \
 $\vec{F}$ is conservative $\leftrightarrow \vec{F}$ is [[Path-independent]]
+\
+\
+Letting $\vec{F}$
