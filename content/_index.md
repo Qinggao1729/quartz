@@ -4,9 +4,11 @@ enableToc: false
 ---
 Zettelkasten for Berkeley Math53 Multivariable Calculus.
 
-A better way to view it is through !(Obsidian)[https://obsidian.md/]
+A better way to view it is through [Obsidian](https://obsidian.md/).
 
+You can submit issues or propose changes through github or email.
 
+# Quartz
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. 
 
 ### Troubleshooting
