@@ -3,4 +3,4 @@ title: "Gradient"
 ---
 idea: Expand the definition of [[Derivative]] in [[Fundamental Theorem of Calculus]]
 
-Convert a [[Scalar function]] $f$ ([[Mapping]]: $R^{n}\to R$) to a [[Vector field]] $\vec{F}$ ([[Mapping]]: $R^{n}\to R^{n}$)
+Take the [[Derivative]] of a [[Scalar function]] $f$ ([[Mapping]]: $R^{n}\to R$) to get a [[Vector field]] $\vec{F}$ ([[Mapping]]: $R^{n}\to R^{n}$)
