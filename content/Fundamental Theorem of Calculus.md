@@ -30,3 +30,5 @@ Assign [[Vector field]] $\vec{F}(x,y,z)=\nabla{f}$
 [[Fundamental Theorem of Calculus#1D]]
 
 # [[Surface Integral]]
+[[Mapping]]: $\vec{F}: R^{n}\to R^{2}$
+[[Green's Theorem]]
