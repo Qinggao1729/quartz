@@ -10,6 +10,7 @@ A [[Vector field]] $\vec{F}$ is conservative if there exists a [[Scalar function
 ## $\vec{F}$ is conservative $\rightarrow \vec{F}$ is [[Path-independent]]
 $\int_{C} \vec{F} \cdot \mathrm{d} \vec{r}=\int_{C} \nabla f \cdot \mathrm{d} \vec{r}=f[\vec{r}(t=b)]-f[\vec{r}(t=b)]$ by [[Fundamental Theorem of Calculus#Vector Line Integral in Higher Dimensions]]
 ## $\vec{F}$ is conservative $\leftarrow \vec{F}$ is [[Path-independent]]
+Define $f(x, y)=\int_{(a, b)}^{(x, y)} \vec{F} \cdot d \vec{r}$
 
 
 # **$\vec{F}$ is conservative $\leftrightarrow P_{y}=Q_{x}$
