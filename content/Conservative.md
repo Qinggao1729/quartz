@@ -7,6 +7,7 @@ A [[Vector field]] $\vec{F}$ is conservative if there exists a [[Scalar function
 \
 \
 # $\vec{F}$ is conservative $\leftrightarrow \vec{F}$ is [[Path-independent]]
+## $\vec{F}$ is conservative $\leftrightarrow \vec{F}$ is [[Path-independent]]
 
 # **$\vec{F}$ is conservative $\rightarrow P_{y}=Q_{x}$
 Letting $\vec{F}(x,y)=(P(x,y),Q(x,y))$
