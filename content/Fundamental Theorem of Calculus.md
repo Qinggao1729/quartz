@@ -4,7 +4,7 @@ tags:
 - ideas 
 - MultivariableCalculus
 ---
-
+#ideas 
 
 Integral of [[Derivative]] over a region = difference of function over a boundary
 
