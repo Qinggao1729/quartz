@@ -26,5 +26,5 @@ Assign [[Vector field]] $\vec{F}(x,y,z)=\nabla{f}$
 
 [[Chain rule]]
 
-[[Fundamental Theorem of Calculus#1D Calculus]]
+[[Fundamental Theorem of Calculus#1D]]
 
