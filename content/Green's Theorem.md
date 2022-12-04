@@ -13,5 +13,5 @@ $$\oint_{C} \vec{F} \cdot \mathrm{d} \vec{r}=\oint_{C} P \mathrm{d}  x+Q \mathrm
 
 Integral of $[\frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y}]$ over a 2D region (or surface) living in 2D space = function $\vec{F}$ over a 1D boundary (or closed curve)
 
-$\left[\frac{\partial Q}{\partial x}=\frac{\partial P}{\partial y}\right]\leftrightarrow $
+$\left[\frac{\partial Q}{\partial x}=\frac{\partial P}{\partial y}\right]\leftrightarrow$ [[Path-independent#oint_ C vec F cdot mathrm d vec r 0 leftrightarrow vec F is path-independent]]$
  [[Fundamental Theorem of Calculus#Vector Line Integral in Higher Dimensions]])
