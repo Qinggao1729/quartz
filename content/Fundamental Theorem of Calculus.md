@@ -16,7 +16,7 @@ $$\int_{a}^{b} \frac{\mathrm{d} f}{\mathrm{d} x} \mathrm{d}x=f(b)-f(a)$$
 Integral of [[Derivative]] over a 1D region (or line) living in 1D space = difference of function at two 0D boundary (or endpoint)
 
 # [[Vector Line Integral]] in Higher Dimensions
-[[Mapping]]: $f:R^{n} \to R^{n}$
+[[Mapping]]: $\vec{F}:R^{n} \to R^{n}$, $\vec{F}=\nabla{f}$
 
 
 $$\int_{C} \nabla f \cdot \mathrm{d} \vec{r}=f[\vec{r}(t=b)]-f[\vec{r}(t=a)]$$
