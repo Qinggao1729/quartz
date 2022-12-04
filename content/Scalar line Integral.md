@@ -19,7 +19,7 @@ integrate $f(x,y)$ along the curve $C$: integral **with respect to arc length**
 
 $$\int_{C}f(C)\mathrm{d}C=\int_{t_{start}}^{t_{end}}f(C)\mathrm{d}C=\int_{t_{start}}^{t_{end}}f(x(t),y(t))\mathrm{d}C=\int_{t_{start}}^{t_{end}}f(x(t),y(t))\sqrt{x_{t}^{2}+y_{t}^{2}}\mathrm{d}t$$
 
-# Partial Integral
+# Integrate in "pieces"
 (It is a random name.)
 
 Integrate a [[Scalar function]] $f(x,y): R^{2} \to R$ **with respect to $x$** as you move along the curve $C$
