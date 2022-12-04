@@ -8,4 +8,4 @@ A [[Vector field]] $\vec{F}$ is path-independent if the [[Vector line integral]]
 \
 For any closed curve $C$
 
-**$\oint_{C} \vec{F} \cdot \mathrm{d} \vec{r}=0 \leftrightarrow \vec{F}$ is path-independent**
+**$\oint_{C} \vec{F} \cdot \mathrm{d} \vec{r}=0 \leftrightarrow \vec{F}$ is path-independent
