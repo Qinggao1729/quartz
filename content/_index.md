@@ -1,7 +1,9 @@
 ---
-title: 🪴 Quartz 3.
+title: Math53 Zettelkasten
 enableToc: false
 ---
+Zettelkasten for Berkeley Math53 Multivariable Calculus.
+
 
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. 
 
