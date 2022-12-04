@@ -21,7 +21,7 @@ Integral of [[Derivative]] over a 1D region (or line) living in 1D space = diffe
 $$\int_{C} \nabla f \cdot \mathrm{d} \vec{r}=f[\vec{r}(t=b)]-f[\vec{r}(t=a)]$$
 (see [[Gradient]])
 
-Integral of [[Derivative]] over a 1D region (or line) living in nD space= difference of function at two 0D boundary (or endpoint)
+Integral of [[Derivative]] over a 1D region (or line) living in nD space = difference of function at two 0D boundary (or endpoint)
 ## Proof
 Assign [[Vector field]] $\vec{F}(x,y,z)=\nabla{f}$
 
@@ -32,3 +32,4 @@ Assign [[Vector field]] $\vec{F}(x,y,z)=\nabla{f}$
 # [[Surface Integral]]
 [[Mapping]]: $\vec{F}: R^{n}\to R^{2}$
 [[Green's Theorem]]
+Integral of $[\frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y}]$ over a 2D region (or surface) living in 2D space = 
