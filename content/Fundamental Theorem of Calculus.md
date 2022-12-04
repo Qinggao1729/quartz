@@ -32,4 +32,4 @@ Assign [[Vector field]] $\vec{F}(x,y,z)=\nabla{f}$
 # [[Surface Integral]]
 [[Mapping]]: $\vec{F}: R^{n}\to R^{2}$
 [[Green's Theorem]]
-Integral of $[\frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y}]$ over a 2D region (or surface) living in 2D space = 
+Integral of $[\frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y}]$ over a 2D region (or surface) living in 2D space = function $\vec{F}$ over 
