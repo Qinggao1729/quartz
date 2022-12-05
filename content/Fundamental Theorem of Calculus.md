@@ -44,4 +44,8 @@ Sum up rotations inside = rotation of the outside (boundary) (which is a [[Vecto
 
 (see: [[Curl]] for rotation inside, [[Vector line integral#Rotation]] for rotation outside)
 
-We can view 
+We can view Green's Theorem as collecting all the [[Tangential component]] of $\vec{F}$ over the boundary, since
+
+$$\int_{C} \vec{F} \cdot \mathrm{d} \vec{r}=\int_{C} \vec{F} \cdot \vec{T} \mathrm{d} C$$
+
+(see: [[Vector line integral#Definition]])
