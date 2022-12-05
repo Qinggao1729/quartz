@@ -10,13 +10,13 @@ You can propose changes through [github](https://github.com/Qinggao1729/quartz) 
 
 Features
 - **Search Bar**: Search for anything.
-* **Node**: Each page/note is a node.
-- **Graph**: showing how nodes are connected to each others. You can **hover over** a node to see the connections more clearly.
-- **Links**: You can **hover over** a link to show the preview of it.
+- **Node**: Each page/note is a node.
+- **Graph**: showing how nodes are connected to each others. You can **hover over** a node to see the connections more clearly. Better in Obsidian!
+- **Links**: You can **hover over** a link to show the preview of it. Better in Obsidian!
 - **Backlinks**: Listing all the nodes that link to that node.
 - **Tags**: All tags can be founded [here](https://qinggao1729.github.io/quartz/tags/), but they are much more general than links.
 
-**You can start from [[Fundamental Theorem of Calculus]]**
+**You can start from [[Fundamental Theorem of Calculus]]**.
 
 
 ___
