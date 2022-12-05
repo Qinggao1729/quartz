@@ -30,7 +30,7 @@ Assign [[Vector field]] $\vec{F}(x,y,z)=\nabla{f}$
 [[Fundamental Theorem of Calculus#1D]]
 
 # [[Surface integral]]
-[[Mapping]]: $\vec{F}: R^{2}\to R^{2}$
+[[Mapping]]: $\vec{F}(x,y)=(P,Q): R^{2}\to R^{2}$
 At any point on the boundary, we can decompose the [[Vector field]] $\vec{F}$ into a [[Tangential component]] and a [[Normal component]]
 $$\vec{F}=[\vec{F}\cdot \vec{T}]\vec{\tau}+[\vec{F}\cdot \vec{n}]\vec{n}$$
 where $\vec{\tau}$ and $\vec{n}$ are unit vectors in tangential and normal direction, respectively.
@@ -52,6 +52,7 @@ $$\int_{C} \vec{F} \cdot \mathrm{d} \vec{r}=\int_{C} \vec{F} \cdot \vec{T} \math
 ## Collecting [[Normal component]]
 $\vec{F}\cdot \vec{n}\mathrm{d}s$ is the normal component
 
-$\int_{C}\vec{F}\cdot \vec{n}\mathrm{d}s=\int$
+$\int_{C}\vec{F}\cdot \vec{n}\mathrm{d}s=\int_{a}^{b}P \mathrm{d}y -Q \mathrm{d}x$
+
 
 
