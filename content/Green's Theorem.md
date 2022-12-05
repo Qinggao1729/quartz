@@ -28,7 +28,9 @@ It can also be extended to apply to regions with holes (not simply-connected), w
 # [[Curl]] Representation
 Suppose $\vec{F}=(P(x,y),Q(x,y),0)$ 
 Then $\nabla \times \vec{F}=(0,0,(\frac{\partial{Q}}{\partial{x}}- \frac{\partial{P}}{\partial{y}}))$, so
-$$\oint_{C} \vec{F} \cdot \mathrm{d} \vec{r}=\iint_{A}(\nabla \times \vec{F})\cdot \vec{k} \mathrm{d} Am{d} y$$
+$$\oint_{C} \vec{F} \cdot \mathrm{d} \vec{r}=\iint_{A}(\nabla \times \vec{F})\cdot \vec{k} \mathrm{d} A$$
+where $\vec{k}=0\vec{i}+0\vec{j}+1\vec{k}$
+
 
 > [!QUOTE]+
 > George Green worked fulltime in his father’s bakery from the age of nine and taught himself mathematics from library books. In 1828 he published privately An Essay on the Application of Mathematical Analysis to the Theories of Electricity and Magnetism, but only 100 copies were printed and most of those went to his friends.
