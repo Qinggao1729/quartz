@@ -16,4 +16,5 @@ $\frac{\partial{P}}{\partial{x}}>0$ and $\frac{\partial{Q}}{\partial{y}}>0$ shou
 $\frac{\partial{P}}{\partial{x}}<0$ and $\frac{\partial{Q}}{\partial{y}}<0$ should contribute to an inward contraction.
 # # $\nabla \cdot (\nabla \times \vec{F})=0$
 (see: [[Curl]])
+
 [[Clairaut's Theorem]]
