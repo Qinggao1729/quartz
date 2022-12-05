@@ -35,7 +35,8 @@ $(r,\theta)\rightarrow (x,y)=(r\cos{\theta}, r\sin{\theta})$
 
 $\mathrm{d}x\mathrm{d}y=r\mathrm{d}r\mathrm{d}\theta$
 
-[[Magic factor]]$=r$
+[[Magic factor]]$=J(r,\theta)=r$
+
 # from 2D to 3D
 2D surface living in 3D
 # from 3D to 3D
@@ -54,4 +55,4 @@ $(\rho,\varphi, \theta)\rightarrow (x,y, z)=(\rho \sin (\varphi) \cos (\theta), 
 
 $\mathrm{d} x \mathrm{d} y \mathrm{d} z=\rho^{2} \sin (\varphi) d \rho d \varphi d \theta$
 
-[[Magic factor]] $=\rho^{2} \sin (\varphi)$
+[[Magic factor]] $=J(\rho,\varphi, \theta)=\rho^{2} \sin (\varphi)$
