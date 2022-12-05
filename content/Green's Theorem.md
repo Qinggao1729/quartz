@@ -5,11 +5,8 @@ Idea: [[Fundamental Theorem of Calculus]]
 
 Suppose $\vec{F}(x,y)=(P,Q)$
 
-Let $C$ be a positively oriented, piecewise-smooth, simple
-closed curve surrounding region $A$. If $P$ and $Q$ have
-continuous partial derivatives on an open region that contains D, then
+Let $C$ be a positively oriented (see [[Orientation]]), piecewise-smooth, simple closed curve surrounding region $A$. If $P$ and $Q$ have continuous partial derivatives on an open region that contains $A$, then
 
-Then
 $$\oint_{C} \vec{F} \cdot \mathrm{d} \vec{r}=\oint_{C} P \mathrm{d}  x+Q \mathrm{d}  y=\iint_{A}\left[\frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y}\right] \mathrm{d} x \mathrm{d} y$$
 (see [[Vector line integral]])
 
