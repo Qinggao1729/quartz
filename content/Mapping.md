@@ -39,9 +39,13 @@ $\mathrm{d}x\mathrm{d}y=r\mathrm{d}r\mathrm{d}\theta$
 # from 2D to 3D
 2D surface living in 3D
 # from 3D to 3D
-## Cylindrical Coordinates
-$(r,\theta)\rightarrow (x,y)=(r\cos{\theta}, r\sin{\theta})$
 
-$\mathrm{d}x\mathrm{d}y=r\mathrm{d}r\mathrm{d}\theta$
+## Cylindrical Coordinates
+
+$(r,\theta, z)\rightarrow (x,y, z)=(r\cos{\theta}, r\sin{\theta}, z)$
+
+$\mathrm{d}x\mathrm{d}y\mathrm{d}z=r\mathrm{d}r\mathrm{d}\theta\mathrm{d}z$
 
 [[Magic factor]]$=r$
+## Spherical Coordinates
+$(\rou,\phi, \theta)\rightarrow (x,y, z)=(r\cos{\theta}, r\sin{\theta}, z)$
