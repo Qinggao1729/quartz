@@ -48,4 +48,4 @@ $\mathrm{d}x\mathrm{d}y\mathrm{d}z=r\mathrm{d}r\mathrm{d}\theta\mathrm{d}z$
 
 [[Magic factor]]$=r$
 ## Spherical Coordinates
-$(\rou,\phi, \theta)\rightarrow (x,y, z)=(r\cos{\theta}, r\sin{\theta}, z)$
+$(\rho,\phi, \theta)\rightarrow (x,y, z)=(\rho \sin (\varphi) \cos (\theta), \rho \sin (\varphi) \sin (\theta), z)$
