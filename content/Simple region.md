@@ -1,0 +1,1 @@
+A region $D \subset \mathbb{R}^2$ is x-simple (yy-simple) if every horizontal (vertical) line intersects DD in a line segment.
