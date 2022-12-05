@@ -1,0 +1,6 @@
+---
+title: "Nabla"
+---
+Idea: 
+
+$\nabla = ()$
