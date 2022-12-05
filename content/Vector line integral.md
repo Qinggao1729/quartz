@@ -15,10 +15,10 @@ $C$ is given by $\vec{r}(t)$, then $\vec{r}^{\prime}(t)$ is tangent to curve $C$
 $$\int_{C} \vec{F} \cdot \mathrm{d} \vec{r}=\int_{C} \vec{F} \cdot \vec{r}^{\prime} \mathrm{d} t=\int_{C} \vec{F}(\vec{r}(t)) \cdot \vec{r}^{\prime} \mathrm{d} t$$
 Also, unit tangent $\vec{T}=\frac{\vec{r}^{\prime}(t)}{\left|\vec{r}^{\prime}(t)\right|}$, then $\mathrm{d}\vec{r}=\vec{T}\left|\vec{r}^{\prime}(t)\right|\mathrm{d}t$
 
-$\left|\vec{r}^{\prime}(t)\right|$ is the [[Magic factor]] in [[Mapping#from 1D to 2D]]and [[Mapping#from 1D to 3D]]
+where $\left|\vec{r}^{\prime}(t)\right|$ is the [[Magic factor]] in [[Mapping#from 1D to 2D]]and [[Mapping#from 1D to 3D]]
 
-So $\left|\vec{r}^{\prime}(t)\right|\mathrm{d}t = \mathrm{d}C$
-$$\int_{C} \vec{F} \cdot \mathrm{d} \vec{r}=\int_{C} \vec{F} \cdot \vec{T} \mathrm{d} C$$
+So $\left|\vec{r}^{\prime}(t)\right|\mathrm{d}t = \mathrm{d}C$. Then
+$$\int_{C} \vec{F} \cdot \mathrm{d} \vec{r}=\int_{C} \vec{F} \cdot \vec{T} \left|\vec{r}^{\prime}(t)\right|\mathrm{d}t=\int_{C} \vec{F} \cdot \vec{T} \mathrm{d} C$$
 # Calculate in "pieces"
 Let $\vec{F}=(P(x, y), Q(x, y))$, and we have $\vec{r}^{\prime}(t)=\left(x^{\prime}(t), y^{\prime}(t)\right)$
 $$\int_{C} \vec{F} \cdot \mathrm{d} \vec{r}=\int_{C} \vec{F} \cdot \vec{r}^{\prime} \mathrm{d} t=\int_{C} P(x, y) x^{\prime}(t) \mathrm{d}t+\int_{C} Q(x, y) y^{\prime}(t) \mathrm{d}t$$
