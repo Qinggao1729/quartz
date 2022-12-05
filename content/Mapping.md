@@ -29,6 +29,8 @@ $\mathrm{d}C=\left|\vec{r}^{\prime}(t)\right|\mathrm{d}t=\sqrt{x_{t}^{2}+y_{t}^{
 # from 2D to 2D
 [[Jacobian Matrix]]
 
+## Polar Coordinates
+
 $(r,\theta)\rightarrow (x,y)=(r\cos{\theta}, r\sin{\theta})$
 
 $\mathrm{d}x\mathrm{d}y=r\mathrm{d}r\mathrm{d}\theta$
@@ -37,3 +39,9 @@ $\mathrm{d}x\mathrm{d}y=r\mathrm{d}r\mathrm{d}\theta$
 # from 2D to 3D
 2D surface living in 3D
 # from 3D to 3D
+## Cylindrical Coordinates
+$(r,\theta)\rightarrow (x,y)=(r\cos{\theta}, r\sin{\theta})$
+
+$\mathrm{d}x\mathrm{d}y=r\mathrm{d}r\mathrm{d}\theta$
+
+[[Magic factor]]$=r$
