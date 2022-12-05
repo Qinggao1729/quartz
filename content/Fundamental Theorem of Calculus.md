@@ -31,7 +31,8 @@ Assign [[Vector field]] $\vec{F}(x,y,z)=\nabla{f}$
 
 # [[Surface integral]]
 [[Mapping]]: $\vec{F}: R^{2}\to R^{2}$
-At any point on the boundary, we can decompose the [[Vector field]] $\vec{F}$
+At any point on the boundary, we can decompose the [[Vector field]] $\vec{F}$ into a [[Tangential component]] and a [[Normal component]]
+$$\vec{F}=[\vec{F}\cdot \vec{T}]\vec{\tau}+[\vec{F}\cdot \vec{n}]\vec{n}$$
 
 [[Green's Theorem]]
 
