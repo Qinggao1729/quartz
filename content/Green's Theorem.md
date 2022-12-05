@@ -14,7 +14,7 @@ $C$ can be also noted as $\partial{A}$
 
 Integral of $[\frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y}]$ over a 2D region (or surface) living in 2D space = function $\vec{F}$ over a 1D boundary (or closed curve)
 
-$\left[\frac{\partial Q}{\partial x}=\frac{\partial P}{\partial y}\right]\leftrightarrow \oint_{C} \vec{F} \cdot \mathrm{d} \vec{r} \leftrightarrow \vec{F}$  is [[Path-independent]] $\leftrightarrow \vec{F}$ is [[Conservative]]
+**$\left[\frac{\partial Q}{\partial x}=\frac{\partial P}{\partial y}\right]\leftrightarrow \oint_{C} \vec{F} \cdot \mathrm{d} \vec{r} \leftrightarrow \vec{F}$  is [[Path-independent]] $\leftrightarrow \vec{F}$ is [[Conservative]]**
 
 # Proof
 for the case in which $A$ is a [[Simple region]].

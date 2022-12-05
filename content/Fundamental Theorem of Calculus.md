@@ -36,7 +36,9 @@ $$\vec{F}=[\vec{F}\cdot \vec{T}]\vec{\tau}+[\vec{F}\cdot \vec{n}]\vec{n}$$
 where $\vec{\tau}$ and $\vec{n}$ are unit vectors in tangential and normal direction, respectively.
 ## Collecting [[Tangential component]]
 
-[[Green's Theorem]]
+[[Green's Theorem]]: 
+
+$$\oint_{C} \vec{F} \cdot \mathrm{d} \vec{r}=\oint_{C} P \mathrm{d}  x+Q \mathrm{d}  y=\iint_{A}\left[\frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y}\right] \mathrm{d} x \mathrm{d} y$$
 
 Integral of $[\frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y}]$ (which are 2 derivatives) over a 2D region (or surface) living in 2D space = function $\vec{F}$ over a 1D boundary (or closed curve)
 
@@ -58,6 +60,6 @@ Since $\vec{T} \cdot \vec{n}=0$, unit normal vector is $\vec{n}(t)=(\frac{y^{\pr
 
 $$\int_{C} \vec{F} \cdot \vec{n} \mathrm{d} s =\int_{a}^{b}(\vec{F} \cdot \vec{n}(t))\left|\vec{r}^{\prime}\right| \mathrm{d} t=\int_{a}^{b}\left[P \frac{y^{\prime}(t)}{\left|\vec{r}^{\prime}(t)\right|}-Q \frac{x^{\prime}(t)}{\left|\vec{r}^{\prime}(t)\right|}\right]\left|\vec{r}^{\prime}(t)\right| \mathrm{d} t$$
 $$=\int_{a}^{b}\left[P y^{\prime}(t)-Q x^{\prime}(t)\right] \mathrm{d} t  =\int_{C} -Q \mathrm{d} x +P \mathrm{d} y$$
-From [[Green's Theorem]], we have $\oint_{C} -Q \mathrm{d} x +P \mathrm{d} y=\iint_{A}\left[\frac{\partial P}{\partial x}+\frac{\partial Q}{\partial y}\right] \mathrm{d} x \mathrm{d} y$
+From [[Green's Theorem]], we have $\oint_{C} -Q \mathrm{d} x +P \mathrm{d} y=\iint_{A}\left[\frac{\partial P}{\partial x}+\frac{\partial Q}{\partial y}\right] \mathrm{d} x \mathrm{d} y$, then
 $$\oint_{C} \vec{F} \cdot \vec{n} \mathrm{d} s =\oint_{C} -Q \mathrm{d} x +P \mathrm{d} y=\iint_{A}\left[\frac{\partial P}{\partial x}+\frac{\partial Q}{\partial y}\right] \mathrm{d} x \mathrm{d} y=\iint_{A} \nabla \cdot \vec{F} \mathrm{d} x \mathrm{d} y$$
 
