@@ -52,3 +52,6 @@ $$\int_{C} \vec{F} \cdot \mathrm{d} \vec{r}=\int_{C} \vec{F} \cdot \vec{T} \math
 ## Collecting [[Normal component]]
 $\vec{F}\cdot \vec{n}\mathrm{d}s$ is the normal component
 
+$\int_{C}\vec{F}\cdot \vec{n}\mathrm{d}s=\int$
+
+
