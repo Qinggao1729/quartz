@@ -10,4 +10,4 @@ $\nabla \times \vec{F} = \left(\frac{\partial R}{\partial y}-\frac{\partial Q}{\
 (see: [[Nabla]])
 
 # Geometric Intuition
-Consider
+Consider $\vec{F}=(0,0,(\frac{\partial{Q}}{\partial{x}}- \frac{\partial{P}}{\partial{y}}))$
