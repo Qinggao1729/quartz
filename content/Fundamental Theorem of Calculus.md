@@ -51,10 +51,13 @@ $$\int_{C} \vec{F} \cdot \mathrm{d} \vec{r}=\int_{C} \vec{F} \cdot \vec{T} \math
 (see: [[Vector line integral#Definition]])
 ## Collecting [[Normal component]]
 $\vec{F}\cdot \vec{n}\mathrm{d}s$ is the normal component
+
 Unit tangent vector is $\vec{T}(t)=(\frac{x^{\prime}(t)}{\left|\vec{r}^{\prime}(t)\right|}, \frac{y^{\prime}(t)}{\left|\vec{r}^{\prime}(t)\right|})$
+
 Since $\vec{T} \cdot \vec{n}=0$, unit normal vector is $\vec{n}(t)=(\frac{y^{\prime}(t)}{\left|\vec{r}^{\prime}(t)\right|} , -\frac{x^{\prime}(t)}{\left|\vec{r}^{\prime}(t)\right|} )$ (see: [[Orientation#Normal of Curve in 2D]])
 
 $$\int_{C} \vec{F} \cdot \vec{n} \mathrm{d} s =\int_{a}^{b}(\vec{F} \cdot \vec{n}(t))\left|\vec{r}^{\prime}\right| \mathrm{d} t=\int_{a}^{b}\left[P \frac{y^{\prime}(t)}{\left|\vec{r}^{\prime}(t)\right|}-Q \frac{x^{\prime}(t)}{\left|\vec{r}^{\prime}(t)\right|}\right]\left|\vec{r}^{\prime}(t)\right| \mathrm{d} t$$
 $$=\int_{a}^{b}\left[P y^{\prime}(t)-Q x^{\prime}(t)\right] \mathrm{d} t  =\int_{C} P \mathrm{d} y-Q \mathrm{d} x$$
-
+Applying [[Green's Theorem]], we can get
+$$\int_{C} \vec{F} \cdot \vec{n} \mathrm{d} s ==\iint_{A}\left[\frac{\partial P}{\partial x}+\frac{\partial Q}{\partial y}\right] d x d y=\iint_{A} \nabla \cdot \vec{F} d x d y$$
 

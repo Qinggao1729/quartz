@@ -35,5 +35,5 @@ where $\vec{k}=0\vec{i}+0\vec{j}+1\vec{k}$
 > [!QUOTE]+
 > George Green worked fulltime in his father’s bakery from the age of nine and taught himself mathematics from library books. In 1828 he published privately An Essay on the Application of Mathematical Analysis to the Theories of Electricity and Magnetism, but only 100 copies were printed and most of those went to his friends.
 
-> [!QUESTION] How come he had friends?
+> [!QUESTION] How did he have friends?
 
