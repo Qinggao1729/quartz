@@ -40,7 +40,7 @@ where $\vec{\tau}$ and $\vec{n}$ are unit vectors in tangential and normal direc
 
 Integral of $[\frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y}]$ (which are 2 derivatives) over a 2D region (or surface) living in 2D space = function $\vec{F}$ over a 1D boundary (or closed curve)
 
-Sum up rotations inside = rotation of the outside (boundary) (which is a [[Vector line integral]])
+Also, Sum up rotations inside = rotation of the outside (boundary) (which is a [[Vector line integral]])
 
 (see: [[Curl]] for rotation inside, [[Vector line integral#Rotation]] for rotation outside)
 
@@ -49,3 +49,4 @@ We can view Green's Theorem as collecting all the [[Tangential component]] of $\
 $$\int_{C} \vec{F} \cdot \mathrm{d} \vec{r}=\int_{C} \vec{F} \cdot \vec{T} \mathrm{d} C$$
 
 (see: [[Vector line integral#Definition]])
+## Collecting [[Normal component]]
