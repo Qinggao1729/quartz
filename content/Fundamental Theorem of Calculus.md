@@ -31,6 +31,7 @@ Assign [[Vector field]] $\vec{F}(x,y,z)=\nabla{f}$
 
 # [[Surface integral]]
 [[Mapping]]: $\vec{F}: R^{2}\to R^{2}$
+At any point on the boundary, we can decompose the [[Vector field]] $\vec{F}$
 
 [[Green's Theorem]]
 
