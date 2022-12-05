@@ -19,3 +19,5 @@ $\frac{\partial{Q}}{\partial{x}}>0$ and $\frac{\partial{P}}{\partial{y}}<0$ shou
 $\frac{\partial{Q}}{\partial{x}}<0$ and $\frac{\partial{P}}{\partial{y}}>0$ should contribute to a clockwise rotation.
 # $\nabla \times \vec{F}=0 \leftrightarrow \vec{F}$ is [[Conservative]]
 ## $\nabla \times \vec{F}=0 \leftarrow \vec{F}$ is [[Conservative]]
+[[Clairaut's Theorem]]
+## $\nabla \times \vec{F}=0 \rightarrow \vec{F}$ is [[Conservative]]
