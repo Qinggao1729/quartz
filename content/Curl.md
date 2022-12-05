@@ -17,3 +17,4 @@ Then $\nabla \times \vec{F}=(0,0,(\frac{\partial{Q}}{\partial{x}}- \frac{\partia
 $\frac{\partial{Q}}{\partial{x}}>0$ and $\frac{\partial{P}}{\partial{y}}<0$ should contribute to a counterclockwise rotation.
 
 $\frac{\partial{Q}}{\partial{x}}<0$ and $\frac{\partial{P}}{\partial{y}}>0$ should contribute to a clockwise rotation.
+# $\nabla$
