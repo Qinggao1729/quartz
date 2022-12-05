@@ -50,3 +50,5 @@ $$\int_{C} \vec{F} \cdot \mathrm{d} \vec{r}=\int_{C} \vec{F} \cdot \vec{T} \math
 
 (see: [[Vector line integral#Definition]])
 ## Collecting [[Normal component]]
+$\vec{F}\cdot \vec{n}\mathrm{d}s$ is the normal component
+
