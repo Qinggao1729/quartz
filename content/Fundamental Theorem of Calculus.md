@@ -51,6 +51,8 @@ $$\int_{C} \vec{F} \cdot \mathrm{d} \vec{r}=\int_{C} \vec{F} \cdot \vec{T} \math
 (see: [[Vector line integral#Definition]])
 ## Collecting [[Normal component]]
 $\vec{F}\cdot \vec{n}\mathrm{d}s$ is the normal component
+unit langent vector is $\vec{T}(t)=(\frac{x^{\prime}(t)}{\left|\vec{r}^{\prime}(t)\right|}, \frac{y^{\prime}(t)}{\left|\vec{r}^{\prime}(t)\right|})$
+since $\vec{T} \cdot \vec{n}=0$
 
 $\int_{C}\vec{F}\cdot \vec{n}\mathrm{d}s=\int_{a}^{b}P \mathrm{d}y -Q \mathrm{d}x$
 
