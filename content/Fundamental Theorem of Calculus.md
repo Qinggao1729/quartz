@@ -57,7 +57,7 @@ Unit tangent vector is $\vec{T}(t)=(\frac{x^{\prime}(t)}{\left|\vec{r}^{\prime}(
 Since $\vec{T} \cdot \vec{n}=0$, unit normal vector is $\vec{n}(t)=(\frac{y^{\prime}(t)}{\left|\vec{r}^{\prime}(t)\right|} , -\frac{x^{\prime}(t)}{\left|\vec{r}^{\prime}(t)\right|} )$ (see: [[Orientation#Normal of Curve in 2D]])
 
 $$\int_{C} \vec{F} \cdot \vec{n} \mathrm{d} s =\int_{a}^{b}(\vec{F} \cdot \vec{n}(t))\left|\vec{r}^{\prime}\right| \mathrm{d} t=\int_{a}^{b}\left[P \frac{y^{\prime}(t)}{\left|\vec{r}^{\prime}(t)\right|}-Q \frac{x^{\prime}(t)}{\left|\vec{r}^{\prime}(t)\right|}\right]\left|\vec{r}^{\prime}(t)\right| \mathrm{d} t$$
-$$=\int_{a}^{b}\left[P y^{\prime}(t)-Q x^{\prime}(t)\right] \mathrm{d} t  =\int_{C} P \mathrm{d} y-Q \mathrm{d} x$$
-From [[Green's Theorem]], we have
-$$\oint_{C} \vec{F} \cdot \vec{n} \mathrm{d} s =\oint_{C} P \mathrm{d} y-Q \mathrm{d} x=\iint_{A}\left[\frac{\partial P}{\partial x}+\frac{\partial Q}{\partial y}\right] d x d y=\iint_{A} \nabla \cdot \vec{F} d x d y$$
+$$=\int_{a}^{b}\left[P y^{\prime}(t)-Q x^{\prime}(t)\right] \mathrm{d} t  =\int_{C} -Q \mathrm{d} x +P \mathrm{d} y$$
+From [[Green's Theorem]], we have $\oint_{C} -Q \mathrm{d} x +P \mathrm{d} y=\iint_{A}\left[\frac{\partial P}{\partial x}+\frac{\partial Q}{\partial y}\right] \mathrm{d} x \mathrm{d} y$
+$$\oint_{C} \vec{F} \cdot \vec{n} \mathrm{d} s =\oint_{C} -Q \mathrm{d} x +P \mathrm{d} y=\iint_{A}\left[\frac{\partial P}{\partial x}+\frac{\partial Q}{\partial y}\right] \mathrm{d} x \mathrm{d} y=\iint_{A} \nabla \cdot \vec{F} \mathrm{d} x \mathrm{d} y$$
 
