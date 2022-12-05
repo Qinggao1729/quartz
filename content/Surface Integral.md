@@ -3,7 +3,7 @@ title: "Surface Integral"
 ---
 Idea: [[Fundamental Theorem of Calculus]]
 
-
+(Or Area integral)
 The relationship between surface integrals and surface area is much the same as the relationship between line integrals and arc length.
 
 \
