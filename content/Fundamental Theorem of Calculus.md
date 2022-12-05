@@ -6,7 +6,7 @@ tags:
 ---
 #ideas 
 
-Integral of [[Derivative]] over a region = function over a boundary
+> [!Note] Integral of [[Derivative]] over a region = function over a boundary
 
 Sum up the total weight or amount of a function described in input space.
 
@@ -48,7 +48,9 @@ Also, Sum up rotations inside = rotation of the outside (boundary) (which is a [
 
 (see: [[Curl]] for rotation inside, [[Vector line integral#Rotation]] for rotation outside)
 
-**[[Curl]] inside = all [[Tangential component]] outside** 
+> [!Note] **[[Curl]] inside = all [[Tangential component]] outside** 
+
+
 ## Collecting [[Normal component]]
 $\vec{F}\cdot \vec{n}\mathrm{d}s$ is the normal component
 
@@ -61,4 +63,4 @@ $$=\int_{a}^{b}\left[P y^{\prime}(t)-Q x^{\prime}(t)\right] \mathrm{d} t  =\int_
 From [[Green's Theorem]], we have $\oint_{C} -Q \mathrm{d} x +P \mathrm{d} y=\iint_{A}\left[\frac{\partial P}{\partial x}+\frac{\partial Q}{\partial y}\right] \mathrm{d} x \mathrm{d} y$, then
 $$\oint_{C} \vec{F} \cdot \vec{n} \mathrm{d} s =\oint_{C} -Q \mathrm{d} x +P \mathrm{d} y=\iint_{A}\left[\frac{\partial P}{\partial x}+\frac{\partial Q}{\partial y}\right] \mathrm{d} x \mathrm{d} y=\iint_{A} \nabla \cdot \vec{F} \mathrm{d} x \mathrm{d} y$$
 
-**[[Divergence]] inside = all [[Normal component]] outside** 
+> [!NOTE] [[Divergence]] inside = all [[Normal component]] outside
