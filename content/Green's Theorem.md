@@ -17,8 +17,12 @@ Integral of $[\frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y}]$ over
 $\left[\frac{\partial Q}{\partial x}=\frac{\partial P}{\partial y}\right]\leftrightarrow \oint_{C} \vec{F} \cdot \mathrm{d} \vec{r} \leftrightarrow \vec{F}$  is [[Path-independent]] $\leftrightarrow \vec{F}$ is [[Conservative]]
 
 # Proof
-for the case in which $A$ is a [[Simple region]]
+for the case in which $A$ is a [[Simple region]].
+
 But we can extend it to the case where $A$ is a finite union of simple regions.
+
+It can also be extended to apply to regions with holes (not simply-connected), with properly-defined [[Orientation]] of boundaries.
+
 
 > [!QUOTE]-
 > George Green worked fulltime in his father’s bakery from the age of nine and taught himself mathematics from library books. In 1828 he published privately An Essay on the Application of Mathematical Analysis to the Theories of Electricity and Magnetism, but only 100 copies were printed and most of those went to his friends.
