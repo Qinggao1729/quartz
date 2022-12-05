@@ -38,19 +38,15 @@ where $\vec{\tau}$ and $\vec{n}$ are unit vectors in tangential and normal direc
 
 [[Green's Theorem]]: 
 
-$$\oint_{C} \vec{F} \cdot \mathrm{d} \vec{r}=\oint_{C} P \mathrm{d}  x+Q \mathrm{d}  y=\iint_{A}\left[\frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y}\right] \mathrm{d} x \mathrm{d} y$$
+$$\oint_{C} \vec{F} \cdot \vec{T} \mathrm{d} C=\oint_{C} \vec{F} \cdot \mathrm{d} \vec{r}=\oint_{C} P \mathrm{d}  x+Q \mathrm{d}  y=\iint_{A}\left[\frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y}\right] \mathrm{d} x \mathrm{d} y$$
 
-Integral of $[\frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y}]$ (which are 2 derivatives) over a 2D region (or surface) living in 2D space = function $\vec{F}$ over a 1D boundary (or closed curve)
+(see: [[Vector line integral#Definition]])
+
+Integral of $[\frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y}]$ (which are 2 derivatives) over a 2D region (or surface) living in 2D space = (**all the [[Tangential component]]** of) function $\vec{F}$ over a 1D boundary (or closed curve)
 
 Also, Sum up rotations inside = rotation of the outside (boundary) (which is a [[Vector line integral]])
 
 (see: [[Curl]] for rotation inside, [[Vector line integral#Rotation]] for rotation outside)
-
-We can view Green's Theorem as collecting all the [[Tangential component]] of $\vec{F}$ over the boundary, since
-
-$$\int_{C} \vec{F} \cdot \mathrm{d} \vec{r}=\int_{C} \vec{F} \cdot \vec{T} \mathrm{d} C$$
-
-(see: [[Vector line integral#Definition]])
 
 **[[Curl]] inside = all [[Tangential component]] outside** 
 ## Collecting [[Normal component]]
