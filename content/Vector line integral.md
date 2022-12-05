@@ -26,3 +26,7 @@ $$=\int_{C} P(x, y) \mathrm{d}x+\int_{C} Q(x, y) \mathrm{d}y$$
 Intuitively, that's from $\mathrm{d} \vec{r}=(\mathrm{d} x, \mathrm{d} y)$
 
 Integration with respect to $x$ in [[Scalar line Integral#Integrate in pieces]]
+# Rotation
+You can also view closed [[Vector line integral]] as a representation of rotation of $\vec{F}$ over the boundary, which makes sense, because if the [[Orientation]] of curve $C$ is positive, then more [[Tangential component]] occurs when $\vec{F}$ is in the same direction as $\mathrm{d}\vec{r}$, namely counterclockwise. 
+
+(see: [[Fundamental Theorem of Calculus#Surface integral]])
