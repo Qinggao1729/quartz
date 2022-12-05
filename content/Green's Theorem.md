@@ -16,9 +16,8 @@ Integral of $[\frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y}]$ over
 
 $\left[\frac{\partial Q}{\partial x}=\frac{\partial P}{\partial y}\right]\leftrightarrow \oint_{C} \vec{F} \cdot \mathrm{d} \vec{r} \leftrightarrow \vec{F}$  is [[Path-independent]] $\leftrightarrow \vec{F}$ is [[Conservative]]
 
-> [!QUOTE]
+> [!QUOTE]-
 > George Green worked fulltime in his father’s bakery from the age of nine and taught himself mathematics from library books. In 1828 he published privately An Essay on the Application of Mathematical Analysis to the Theories of Electricity and Magnetism, but only 100 copies were printed and most of those went to his friends.
 
-> [!QUESTION]
-> How come he had friends?
+> [!QUESTION] How come he had friends?
 
