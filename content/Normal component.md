@@ -1,0 +1,5 @@
+---
+title: "Normal component"
+---
+Idea: 
+

@@ -33,6 +33,8 @@ Assign [[Vector field]] $\vec{F}(x,y,z)=\nabla{f}$
 [[Mapping]]: $\vec{F}: R^{2}\to R^{2}$
 At any point on the boundary, we can decompose the [[Vector field]] $\vec{F}$ into a [[Tangential component]] and a [[Normal component]]
 $$\vec{F}=[\vec{F}\cdot \vec{T}]\vec{\tau}+[\vec{F}\cdot \vec{n}]\vec{n}$$
+where $\vec{\tau}$ and $\vec{n}$ are unit vectors in tangential and normal direction, respectively.
+## Collecting [[Tangential component]]
 
 [[Green's Theorem]]
 
