@@ -10,4 +10,9 @@ $\nabla \times \vec{F} = \left(\frac{\partial R}{\partial y}-\frac{\partial Q}{\
 (see: [[Nabla]])
 
 # Geometric Intuition
-Consider $\vec{F}=(0,0,(\frac{\partial{Q}}{\partial{x}}- \frac{\partial{P}}{\partial{y}}))$
+Consider $\vec{F}=(P(x,y),Q(x,y),0)$ 
+Then $\vec{F}=(0,0,(\frac{\partial{Q}}{\partial{x}}- \frac{\partial{P}}{\partial{y}}))$
+
+$\frac{\partial{Q}}{\partial{x}}>0$ and $\frac{\partial{P}}{\partial{y}}<0$ should contribute to a counterclockwise rotation.
+
+$\frac{\partial{Q}}{\partial{x}}<0$ and $\frac{\partial{P}}{\partial{y}}>0$ should contribute to a clockwise rotation.
