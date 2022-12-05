@@ -35,3 +35,5 @@ Assign [[Vector field]] $\vec{F}(x,y,z)=\nabla{f}$
 [[Green's Theorem]]
 
 Integral of $[\frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y}]$ (which are 2 derivatives) over a 2D region (or surface) living in 2D space = function $\vec{F}$ over a 1D boundary (or closed curve)
+
+Sum up rotations inside = rotation of the outside (boundary) (vector line integral)
