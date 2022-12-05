@@ -39,6 +39,7 @@ $\mathrm{d}x\mathrm{d}y=r\mathrm{d}r\mathrm{d}\theta$
 # from 2D to 3D
 2D surface living in 3D
 # from 3D to 3D
+[[Jacobian Matrix]]
 
 ## Cylindrical Coordinates
 
@@ -48,4 +49,9 @@ $\mathrm{d}x\mathrm{d}y\mathrm{d}z=r\mathrm{d}r\mathrm{d}\theta\mathrm{d}z$
 
 [[Magic factor]]$=r$
 ## Spherical Coordinates
+
 $(\rho,\varphi, \theta)\rightarrow (x,y, z)=(\rho \sin (\varphi) \cos (\theta), \rho \sin (\varphi) \sin (\theta), \rho \cos (\varphi))$
+
+$\mathrm{d} x \mathrm{d} y \mathrm{d} z=\rho^{2} \sin (\varphi) d \rho d \varphi d \theta$
+
+[[Magic factor]] $=\rho^{2} \sin (\varphi)$
