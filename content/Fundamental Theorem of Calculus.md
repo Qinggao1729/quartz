@@ -4,7 +4,6 @@ tags:
 - ideas 
 - MultivariableCalculus
 ---
-#ideas 
 
 > [!Note] Integral of [[Derivative]] over a region = function over a boundary
 
