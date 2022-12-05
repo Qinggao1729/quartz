@@ -19,6 +19,9 @@ $\left[\frac{\partial Q}{\partial x}=\frac{\partial P}{\partial y}\right]\leftri
 # Proof
 for the case in which $A$ is a [[Simple region]].
 
+* Show $\int_{C} P(x, y) d x=-\iint_{D} \frac{\partial P}{\partial y} d A$ by expressing D as a type I region
+* 
+
 But we can extend it to the case where $A$ is a finite union of simple regions.
 
 It can also be extended to apply to regions with holes (not simply-connected), with properly-defined [[Orientation]] of boundaries.
