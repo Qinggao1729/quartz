@@ -36,5 +36,8 @@ Assign [[Vector field]] $\vec{F}(x,y,z)=\nabla{f}$
 
 Integral of $[\frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y}]$ (which are 2 derivatives) over a 2D region (or surface) living in 2D space = function $\vec{F}$ over a 1D boundary (or closed curve)
 
-Sum up rotations inside = rotation of the outside (boundary) 
-vector line integral)
+Sum up rotations inside = rotation of the outside (boundary) (which is a [[Vector line integral]])
+
+(see: [[curl]])
+
+So you can also view [[Vector line integral]] as a representation of rotation of the boundary, which makes sense, because if 
