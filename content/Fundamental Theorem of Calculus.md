@@ -42,6 +42,6 @@ Integral of $[\frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y}]$ (whi
 
 Sum up rotations inside = rotation of the outside (boundary) (which is a [[Vector line integral]])
 
-(see: [[Curl]] for rotation)
+(see: [[Curl]] for rotation inside, [[Vector line integral#Rotation]] for rotation outside)
 
-So you can also view closed [[Vector line integral]] as a representation of rotation of $\vec{F}$ over the boundary, which makes sense, because if the [[Orientation]] of curve $C$ is positive, then more [[Tangential component]] occurs when $\vec{F}$ is in the same direction as $\mathrm{d}\vec{r}$, namely counterclockwise. 
+We can view 
