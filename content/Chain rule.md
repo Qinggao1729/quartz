@@ -1,5 +1,0 @@
----
-title: "Chain rule"
----
-Idea: 
-

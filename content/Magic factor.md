@@ -1,5 +1,0 @@
----
-title: "Magic factor"
----
-Idea: 
-

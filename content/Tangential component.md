@@ -1,5 +1,0 @@
----
-title: "Tangential compenent"
----
-Idea: 
-
