@@ -1,0 +1,6 @@
+---
+title: "Derivative"
+---
+Idea: 
+
+[[Gradient]]
