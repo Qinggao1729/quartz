@@ -6,7 +6,7 @@ Zettelkasten for Berkeley Math53 Multivariable Calculus (mainly focus on chapter
 
 A better way to view it is through [Obsidian](https://obsidian.md/).
 
-You can propose changes through [github](https://github.com/Qinggao1729/quartz) or [email](mailto:qinggao.hong@berkeley.edu).
+You can propose changes through github or email.
 
 Features
 - **Search Bar**: Search for anything.
